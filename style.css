@@ -1,11 +1,9 @@
-*	{
-	border: 1px solid #000000;
-}
+
 
 /* Don't forget to remove the page borders */
 
 body {
-    background-image: url("Images/backgroundimage.jpg");
+    background-image: url("images/backgroundimage.jpg");
     background-color: #cccccc;
 	background-position: center;
 }
