@@ -1,0 +1,164 @@
+*	{
+	border: 1px solid #000000;
+}
+
+/* Don't forget to remove the page borders */
+
+body {
+    background-image: url("Images/backgroundimage.jpg");
+    background-color: #cccccc;
+	background-position: center;
+}
+
+p {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 24px;
+  margin: 0 auto;
+  text-align: center;
+  width: 60%;
+  font-family: 'Oswald', sans-serif;
+}
+
+/* Change all padding from px to percents*/
+.button {
+	background-color: darkred;
+    border: 1px solid white;
+    color: white;
+	width: 16%;
+	padding: 1% 1% 1% 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	color: Ivory;
+	font-family: 'Days One', sans-serif;
+	font-size: 64px;	
+	text-align: center;
+	font-style: italic;
+	
+}
+
+h2 {
+	color: White;
+	font-size: 48px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+
+h3	{
+	color: White;
+	font-size: 36px;
+	text-align: center;
+}
+
+#timhortonsad {
+	display: block;
+	margin: 0 auto;
+	width: 600px;
+	height: 400px;
+	
+}
+
+#Biography{
+	color: White;
+	Font-size: 50px;
+	text-align: left;
+	font-weight: bold;
+	font-family:'Days One', sans-serif;
+}
+
+ul {
+	color: White;
+	Font-size: 28px;
+	font-family: 'Squada One', cursive; 
+	margin: 0% 0% 2% 0%;
+}
+
+#playerpicture {
+	float: right;
+	padding: 3% 3% 3% 1%;
+	clear: none;
+	border:1px solid;
+}
+
+#hockeyplayer {
+	text-align: left;
+	color: white;
+	float: left;
+	margin-left: 3%;
+}
+
+#historypage {
+	color: white;
+	font-size: 64px;
+}
+
+/* Make sure picture and text are on the same line*/
+
+#historypicture {
+	width: 800px;
+	height: 200px;
+	float: center;
+	margin-left: 20%;
+	margin-right: 50%;
+	padding-bottom: 3;
+}
+
+#historytimeline {
+	color: white;
+	float: left;
+	clear: none;
+}
+	
+.foundationinformation {
+	color: white;
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
+
+#timhortonsfoundation {
+	clear: none;
+	border:1px solid;
+	width:550px;
+	height:191px;
+	margin-left: 30%;
+	margin-right: 50%;
+}
+
+#information {
+	color: white;
+	font-size: 36px;
+	float: left;
+	clear: none;
+}
+
+#sources {
+	color: white;
+	font-size: 32px;
+	float: left;
+	clear: none;
+	margin-left: 3%;
+	
+}
+
+/* Add the top button in css */
+
+#topbutton {
+	color: white;
+	font-size: 20px;
+}
+
+/* Add the font family names:
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Francois One', sans-serif;
+font-family: 'Days One', sans-serif;
+font-family: 'Squada One', cursive; */
