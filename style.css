@@ -128,14 +128,14 @@ ul {
 	margin-right: 50%;
 }
 
-#information {
+.information {
 	color: white;
 	font-size: 36px;
 	float: left;
 	clear: none;
 }
 
-#sources {
+.sources {
 	color: white;
 	font-size: 32px;
 	float: left;
