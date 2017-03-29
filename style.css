@@ -3,9 +3,7 @@
 /* Don't forget to remove the page borders */
 
 body {
-    background-image: url("images/backgroundimage.jpg");
-    background-color: #cccccc;
-	background-position: center;
+	background-color: #cc3300;
 }
 
 p {
